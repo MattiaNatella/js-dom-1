@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.hide {
+  display:none
+}
+
+.box {
+  display:flex;
+  background-color: brown;
+  align-items: center;
+  justify-content: space-between;
+  margin: 50px auto;
+  max-width: 600px;
+}
+
+.reverse {
+transform: scaleX(-1);
+}
+
+.text-center{
+  text-align: center;
+}
+
+#switch {
+  width: 150px;
+}
+
+.box img:last-child
