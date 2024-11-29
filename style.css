@@ -10,7 +10,7 @@
 
 .box {
   display:flex;
-  background-color: brown;
+  background-color: white;
   align-items: center;
   justify-content: space-between;
   margin: 50px auto;
